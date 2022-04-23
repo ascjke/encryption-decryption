@@ -3,6 +3,8 @@
 In this pet project we have a CLI program where we can encrypt messages, and decrypt them.
 Encryption and decryption algorithms are used Ceasar cipher or Unicode cipher.
 
+https://user-images.githubusercontent.com/101511051/164888901-464d49d8-7282-4676-a145-7bf7c8701c67.mp4
+
 User can set options of program with with command-line arguments instead of the standard input. There are following arguments:
 
 -mode (this argument determine the program’s mode (enc for encryption, dec for decryption))
@@ -12,6 +14,10 @@ User can set options of program with with command-line arguments instead of the 
 -data (third argument is a text or ciphertext to encrypt or decrypt)
 
 -in (specify the full name of a file to read data)
+
+
+
+
 
 -out (specify the full name of a file to write the result)
 
